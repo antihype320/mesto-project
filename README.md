@@ -47,3 +47,5 @@
    ```bash
    npm run dev
    ```
+## Просмотр проекта через GitHub Pages
+https://antihype320.github.io/mesto-project/
