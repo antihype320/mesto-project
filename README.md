@@ -1,6 +1,6 @@
 # Проектная работа Mesto
 
-**Студент**: Muradov Kamal\
+**Студент**: Nikita Prokhorov\
 **Стэк**: HTML, CSS, JavaScript
 
 ## Описание проекта
@@ -47,5 +47,3 @@
    ```bash
    npm run dev
    ```
-## Просмотр проекта через GitHub Pages
-https://kmuradoff.github.io/mesto-project/

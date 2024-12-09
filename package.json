@@ -11,17 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/kmuradoff/mesto-project.git"
+    "url": "git+ssh://git@github.com:antihype320/mesto-project.git"
   },
   "keywords": [
     "mesto"
   ],
-  "author": "Kamal Muradov",
+  "author": "Nikita Prokhorov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kmuradoff/mesto-project/issues"
+    "url": "https://github.com/antihype320/mesto-project/issues"
   },
-  "homepage": "https://github.com/kmuradoff/mesto-project#readme",
+  "homepage": "https://github.com/antihype320/mesto-project#readme",
   "devDependencies": {
     "@babel/core": "^7.19.3",
     "@babel/preset-env": "^7.19.4",

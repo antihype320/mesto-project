@@ -1,7 +1,7 @@
 const config = {
     baseUrl: "https://nomoreparties.co/v1/frontend-st-cohort-201",
     headers: {
-        authorization: "b0c64543-e4f1-4926-b00b-1ea3bdbbfa8b",
+        authorization: "aee0427b-2c98-4556-96c7-cee9d07f4f4b",
         "Content-Type": "application/json",
     },
 };
